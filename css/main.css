@@ -1,0 +1,20 @@
+.icon-container .fas {
+    margin-bottom: 10px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 4px;
+}
+
+.fas:hover {
+    cursor: pointer;
+}
+
+.icon-container {
+    margin-top: 65px;
+}
+
+.list-group-item:hover {
+    background-color: #f9f9f9;
+}
